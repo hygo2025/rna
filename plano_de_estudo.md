@@ -1,17 +1,4 @@
-Eu, como um modelo de linguagem, não tenho a capacidade de criar ou interagir diretamente com arquivos em plataformas externas como o Google Docs. Minha funcionalidade é gerar e processar texto dentro desta conversa.
 
-No entanto, posso fazer algo para facilitar ao máximo o processo para você. Vou reformatar a resposta completa do guia de estudos em um único bloco de texto. Assim, você pode:
-
-1.  **Copiar** todo o texto abaixo com um único clique.
-2.  **Abrir** o Google Docs ([docs.google.com](https://docs.google.com)).
-3.  **Criar** um novo documento em branco.
-4.  **Colar** o conteúdo.
-
-O Google Docs é muito bom em reconhecer a formatação (títulos, negrito, listas) e deve preservar a estrutura do guia.
-
-Aqui está o conteúdo pronto para ser copiado:
-
----
 
 ## **Guia de Estudo Completo de Teoria dos Grafos**
 
