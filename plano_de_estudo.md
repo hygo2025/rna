@@ -2,8 +2,6 @@
 
 ## **Guia de Estudo Completo de Teoria dos Grafos**
 
-Este documento foi elaborado a partir do cruzamento das suas listas de exercícios e do material de aula, com o objetivo de fornecer um guia direcionado para a resolução dos problemas propostos.
-
 ### **Tópico 1: Definições e Conceitos Fundamentais**
 
 Esses conceitos são a base para a maioria dos exercícios, especialmente os da **Lista 1** e **Lista 2**.
