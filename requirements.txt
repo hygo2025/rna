@@ -1,6 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+
 plotly
 seaborn
 pandas
 matplotlib
 tqdm
 scikit-learn
+kagglehub
+
+torch
+torchvision
+torchaudio
