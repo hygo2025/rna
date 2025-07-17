@@ -2,6 +2,7 @@ import sys
 import os
 from typing import List, Dict, Set
 
+#https://vjudge.net/contest/726798#problem/B
 
 def build_graph(n: int, portals: List[int]) -> Dict[int, Set[int]]:
     adj = {}

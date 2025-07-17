@@ -3,6 +3,7 @@ import os
 import heapq
 from typing import List, Dict, Tuple
 
+# https://vjudge.net/contest/727919#problem/A
 
 def get_valid_knight_moves(pos: Tuple[int, int]) -> List[Tuple[int, int]]:
     l, c = pos

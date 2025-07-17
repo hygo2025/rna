@@ -2,6 +2,7 @@ import sys
 import os
 from typing import List, Dict, Set, Tuple
 
+#https://vjudge.net/contest/726798#problem/A
 
 def build_graph_from_lines(n: int, edge_lines: List[str]) -> Tuple[Dict[int, Set[int]], List[int]]:
     # inicializa geral sem vizinhos
