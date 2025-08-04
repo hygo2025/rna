@@ -63,7 +63,7 @@ def solve():
         min_cost = find_minimum_cost(start_pos, end_pos)
         print(min_cost)
 
-solve()
+#solve()
 
 def display_board():
     print("-------------------------------------------------")
