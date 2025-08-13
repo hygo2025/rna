@@ -11,3 +11,5 @@ kagglehub
 torch
 torchvision
 torchaudio
+
+gensim
