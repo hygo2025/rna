@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="rna-novo" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="$USER_HOME$/.local/share/mamba/envs/rna" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

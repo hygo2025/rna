@@ -277,3 +277,5 @@ pyrightconfig.json
 **/datasets
 **/runs
 *.pth
+
+**/models/*
